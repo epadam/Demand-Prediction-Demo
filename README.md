@@ -5,16 +5,16 @@ A Production level time series prediction and classification
 
 1. Time Series Prediction
 
-...Based on mutiple salse data
+⋅⋅⋅Based on mutiple salse data
 
-...Solution
+⋅⋅⋅Solution
     - Prophet
     - Pytorch time series prediction
 
 
 2. Regression Prediction
 
-...Solution:
+⋅⋅⋅Solution:
     - Online Learning
 
 3. Ensemble Prediction
