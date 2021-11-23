@@ -5,7 +5,7 @@ A Production level time series prediction and classification
 
 1. Time Series Prediction
 
-> Based on mutiple salse data
+    Based on mutiple salse data
 
 > Solution:
     1. prophet
