@@ -8,9 +8,9 @@ A Production level time series prediction and classification
     Based on mutiple salse data
 
     Solution:
-        1. prophet
-        
-        2. Pytorch time series
+    
+    1. prophet
+    2. Pytorch time series
 
 
 
@@ -18,6 +18,6 @@ A Production level time series prediction and classification
 
     Solution:
         
-        - Online Learning
+    - Online Learning
 
 3. Ensemble Prediction
